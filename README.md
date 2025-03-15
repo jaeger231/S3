@@ -137,6 +137,8 @@ EC2).
 
 AWS Step Functions is a serverless orchestration service that helps you coordinate and manage multiple AWS services into scalable workflows. It allows developers to design workflows as state machines, which represent a series of steps, transitions, and conditions.
 
+![step functions](https://github.com/jaeger231/S3/blob/359e4e0b3c527ec1e927b61b3c7b38e6ab3500f9/step%20functions.PNG)
+
 Workflow Example
 
 **1. Upload Workflow:**
