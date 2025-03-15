@@ -3,6 +3,7 @@ This is an architecture design where a new service is created to allows users to
 
 **Architecture Breakdown**
 
+![Architecture diagram](https://github.com/jaeger231/S3/blob/870a19dd4f76e8749ced7bc2538207474e9b4627/s3.PNG)
 
 
 **1. User Interface**
